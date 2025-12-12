@@ -32,7 +32,7 @@ Clone the repository via:
 ```bash
 git clone https://github.com/parsa-nedaei/Lvim-Config-File.git
 ```
-which then followed by to replace your current `config.lua` by this one:
+which then followed by below to replace your current `config.lua` by this one:
 ```bash
 cp Lvim-Config-File/.config/lvim/config.lua ~/.config/lvim/config.lua
 ```
