@@ -16,11 +16,17 @@ which you can use the whole file as your config or just copying necessary parts.
 This config file can be used both as whole or just adding necessary lines to your current `config.lua`
 
 
-> **NOTE**
+> **CAUTION**
 > 
 > Make sure you have a backup from your current config file to avoid any possible malfunctionality.
 > Also, if you wish to add some parts, ensure that your other plugins and command, won't make conflict.
 >
+
+> **NOTE**
+> 
+> This `config.lua` is tested on a $${\color{orange}Linux}$$ system, but same method is applied to other systems.
+> 
+
 ### For installation as whole
 Clone the repository via:
 ```bash
