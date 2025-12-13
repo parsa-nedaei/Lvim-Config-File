@@ -53,7 +53,7 @@ This plugin is installed via following lines within `lvim.plugin = {}` argument:
   end
   },
 ```
-Line ``priority = 1000`` ensures that theme loads at highest priority, before others and ``style= 'darker'`` is chosed for *darker* variant (any other variants can be chosed by user).
+Line ``priority = 1000`` ensures that theme loads at highest priority, before others and ``style= 'darker'`` is chosen for *darker* variant (any other variants can be chosen by user).
 > Read more at [onedark.nvim](https://github.com/navarasu/onedark.nvim)
 
 ### 2. Julia Syntax Highlighting and $${\LaTeX{}}$$ Support
